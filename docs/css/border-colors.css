@@ -1,0 +1,24 @@
+* {
+  margin-bottom: 5px;
+}
+
+.red-border {
+  padding: 5px;
+  border-style: solid;
+  border-color: rgb(255, 0, 0, 1) rgb(255, 0, 0, 0.75) rgb(255, 0, 0, 0.5)
+    rgb(255, 0, 0, 0.25);
+}
+
+.green-border {
+  padding: 5px;
+  border-style: solid;
+  border-color: rgb(0, 255, 0, 1) rgb(0, 255, 0, 0.75) rgb(0, 255, 0, 0.5)
+    rgb(0, 255, 0, 0.25);
+}
+
+.blue-border {
+  padding: 5px;
+  border-style: dotted;
+  border-color: rgb(0, 0, 255, 1) rgb(0, 0, 255, 0.75) rgb(0, 0, 255, 0.5)
+    rgb(0, 0, 255, 0.25);
+}
