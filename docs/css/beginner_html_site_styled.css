@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  background-color: #00539f;
+}
+
+.center {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  color: #00539f;
+  background-color: #ff9500;
+  font-size: 60px;
+  font-weight: bold;
+  text-shadow: 3px 3px rgb(0, 0, 0, 0.9);
+}
+
+.box {
+  margin: auto;
+  padding: 40px 40px 40px 40px;
+  width: 640px;
+  background-color: #ff9500;
+  border: 5px solid black;
+}
+
+.textbox {
+  margin: 20px 0px 20px 0px;
+  background-color: #ff9500;
+  line-height: 200%;
+  letter-spacing: 1px;
+}
+
+.ulbox {
+  background-color: #ff9500;
+  line-height: 200%;
+  letter-spacing: 1px;
+}
