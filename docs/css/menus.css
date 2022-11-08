@@ -1,0 +1,23 @@
+.ul {
+  list-style-type: none;
+  display: block;
+  padding: 20px;
+  background-color: yellow;
+  margin: 10px;
+  text-align: center;
+}
+
+.li {
+  display: inline-block;
+  margin: 0px 30px 0px 30px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 800;
+  margin: 30px 10px;
+}
+
+.content {
+  margin: 20px 10px;
+}
