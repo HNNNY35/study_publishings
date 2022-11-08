@@ -1,17 +1,12 @@
-.ul {
-  list-style-type: none;
-  display: block;
-  padding: 20px;
-  background-color: yellow;
-  margin: 10px;
-  text-align: center;
-}
-
-.li {
+.ul * {
   display: inline-block;
-  margin: 0px 30px 0px 30px;
+  margin: 10px auto 10px auot;
+  padding: 0px 10px;
 }
 
+.ul {
+  display: inline-block;
+}
 .title {
   font-size: 30px;
   font-weight: 800;
@@ -20,4 +15,9 @@
 
 .content {
   margin: 20px 10px;
+}
+
+.menu-outline {
+  background-color: yellow;
+  text-align: center;
 }
